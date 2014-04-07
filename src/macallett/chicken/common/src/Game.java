@@ -65,6 +65,12 @@ public abstract class Game implements Runnable {
 					frames = 0;
 			}
 		}
+		
+		try {
+			t.join();
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
 	}
 	
 	public synchronized void start() {
