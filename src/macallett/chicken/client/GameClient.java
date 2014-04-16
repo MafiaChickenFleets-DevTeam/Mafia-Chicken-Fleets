@@ -1,4 +1,4 @@
-package macallett.chicken.client.src;
+package macallett.chicken.client;
 
 import java.awt.Canvas;
 import java.awt.Dimension;
@@ -7,8 +7,8 @@ import java.awt.image.BufferStrategy;
 import java.awt.image.BufferedImage;
 import java.awt.image.DataBufferInt;
 
-import macallett.chicken.client.src.gfx.Renderer;
-import macallett.chicken.common.src.Game;
+import macallett.chicken.client.gfx.Renderer;
+import macallett.chicken.common.Game;
 
 public class GameClient extends Game {
 

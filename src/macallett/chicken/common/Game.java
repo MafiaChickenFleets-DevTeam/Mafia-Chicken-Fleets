@@ -1,4 +1,4 @@
-package macallett.chicken.common.src;
+package macallett.chicken.common;
 
 public abstract class Game implements Runnable {
 

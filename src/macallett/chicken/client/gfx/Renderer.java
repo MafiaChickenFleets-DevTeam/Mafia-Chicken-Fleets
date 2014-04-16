@@ -1,4 +1,4 @@
-package macallett.chicken.client.src.gfx;
+package macallett.chicken.client.gfx;
 
 
 public class Renderer {

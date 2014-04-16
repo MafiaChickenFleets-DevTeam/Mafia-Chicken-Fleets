@@ -2,7 +2,7 @@ package macallett.chicken.client.start;
 
 import javax.swing.JFrame;
 
-import macallett.chicken.client.src.GameClient;
+import macallett.chicken.client.GameClient;
 import macallett.chicken.common.reference.Strings;
 
 public class StartClient {
